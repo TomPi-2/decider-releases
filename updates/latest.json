@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/TomPi-2/Decider/releases/download/v1.0.3/DeciderSetup-1.0.3.exe",
+  "version": "1.0.4",
+  "download_url": "https://github.com/TomPi-2/Decider/releases/download/v1.0.4/DeciderSetup-1.0.4.exe",
   "release_notes": "**Nueva actualización disponible**\n\n**Mejoras principales:**\n· Sistema de actualizaciones automáticas\n· Interfaz mejorada y más fluida\n· Corrección de errores menores\n· Optimización de rendimiento\n\n**Novedades técnicas:**\n· Debug logging avanzado\n· Validación de archivos mejorada\n· Instalación más robusta\n\n**¿Qué esperar?**\n· Descarga automática desde GitHub\n· Instalación guiada paso a paso\n· Logs detallados para diagnóstico",
   "required": false
 }
